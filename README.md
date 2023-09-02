@@ -2,24 +2,20 @@ Hi there, I’m Manuel aka @Lavariet
 
  Some of the Techs I like:
  
-- JavaScript / Typescript
-- Node and Deno 
+- EcmaScript
+- Node 
 - Go
-- React
+- kinda interested in Rust
 
- And a bunch of which I don't like xD:
+ And a bunch of which I don't like:
 - Java, instant legacy overengineered overcomplicated Code
-- Angular, I dislike Annotations as they break 'Code Structure / Flow' 
-- Vue, don't like the custom directives
-- Svelte, great idea, whacky syntax
-- Stuff like Lit or Stencil, goes to show that the web components / custom elements idea is popular, 
-  but putting it in a class based structure with a bunch of overcompilication and inconvenience was
-  not a good idea for a standard
+- Angular, Vue, React and basically every oder Framework as they overengineer the solution to oftentimes simple problems
   
  I’m currently learning 
-- more React
-- Graphql
-- Deno
+- (Job) more React
+- (Job) Graphql
+- (Job) Node
+- Go
  
 
  
