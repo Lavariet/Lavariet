@@ -9,7 +9,7 @@ Hi there, I’m Manuel aka @Lavariet
 
  And a bunch of which I don't like:
 - Java, instant legacy overengineered overcomplicated Code
-- Angular, Vue, React and basically every oder Framework as they overengineer the solution to oftentimes simple problems
+- Angular
   
  I’m currently learning 
 - (Job) more React
