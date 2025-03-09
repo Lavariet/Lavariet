@@ -1,6 +1,6 @@
 Hi there, I’m Manuel aka @Lavariet
 
-Working as Frontend (officially Full Stack, but Nodejs, am I right?)
+Working as Frontend (officially Full Stack, but Nodejs, am I right?) dev
 
 I currently working with React, Graphql and Node, which is a stark reminder that SQL is actually something you can miss ;)
  
