@@ -1,23 +1,8 @@
 Hi there, I’m Manuel aka @Lavariet
 
- Some of the Techs I like:
- 
-- EcmaScript
-- Node 
-- Go
-- kinda interested in Rust
+Working as Frontend (officially Full Stack, but Nodejs, am I right?)
 
- And a bunch of which I don't like:
-- Java, instant legacy overengineered overcomplicated Code
-- Angular
-  
- I’m currently learning 
-- (Job) more React
-- (Job) Graphql
-- (Job) Node
-- Go
- 
-
+I currently working with React, Graphql and Node, which is a stark reminder that SQL is actually something you can miss ;)
  
 
 
